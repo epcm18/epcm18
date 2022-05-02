@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @epcm18
 - 👀 I’m interested in data structures & algorithms
 - 🌱 I’m currently learning computer science & engineering
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me pasindu.chamodzz@gmail.com
 
 <!---
