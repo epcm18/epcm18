@@ -4,10 +4,9 @@
 
 ## I'm a Computer Science and Engineering Undergradute at [MoratuwaUni](https://uom.lk/) 
 
-- 💻 I’m currently working on Data Structures and Algorithms.
-- 📚 I'm currently learning 
-- 💪🏼 Goals:
-- ⚡ Fun fact: I write poems, cook a lot of Italian and Punjabi food and play a Ukulele.
+- 📚 I'm currently learning concepts on DSA & OOP.
+- 💪🏼 Goals: Keep building solutions, learn more technologies and help people.
+- ⚡ Fun fact: Sportsperson, Love cricket & Football.
 
 ---
 
@@ -26,7 +25,6 @@
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
 ![Java](https://badges.aleen42.com/src/java.svg)
-![C++]
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://badges.aleen42.com/src/gitlab.svg)
 ![GitHub](https://badges.aleen42.com/src/github.svg)
