@@ -5,26 +5,20 @@
 ## I'm a Computer Science and Engineering Undergradute at [AtliQ](https://uom.lk/) 
 
 - 💻 I’m currently working on Data Structures and Algorithms.
-- 📚 I’m currently learning 
-- 💪🏼 Goals: Keep building solutions that help businesses thrive better, learn more technologies and help people excel at it too.
+- 📚 I’m currently learning as many things as possible
+- 💪🏼 Goals:
 - ⚡ Fun fact: I write poems, cook a lot of Italian and Punjabi food and play a Ukulele.
 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31q7n3uxp2rdwko74eonerqtdwbe)
-
----
 
 ### Reach out to me 📝
 
 [<img align="left" alt="groverkds | Twitter" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733579.svg" />][twitter]
 [<img align="left" alt="groverkds | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733561.svg"/>][linkedin]
-[<img align="left" alt="groverkds | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />][instagram]
-[<img align="left" alt="groverkds | Spotify" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/733/733573.svg" />][Spotify]
+
 
 <br />
 
@@ -33,12 +27,7 @@
 ### Languages and Tools 🛠 
 
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
-![Tensorflow](https://badges.aleen42.com/src/tensorflow.svg)
-![Docker](https://badges.aleen42.com/src/docker.svg)
 ![JavaScript](https://badges.aleen42.com/src/javascript.svg)
-![Vue](https://badges.aleen42.com/src/vue.svg)
-![Nodejs](https://badges.aleen42.com/src/node.svg)
-![Npm](https://badges.aleen42.com/src/npm.svg)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://badges.aleen42.com/src/gitlab.svg)
 ![GitHub](https://badges.aleen42.com/src/github.svg)
@@ -48,11 +37,10 @@
 
 ---
 
-### ⭐️ From [Groverkds](https://github.com/groverkds) ### 
+### ⭐️ From [epcm18](https://github.com/epcm18) ### 
 
 ---
 
-[twitter]: https://twitter.com/groverkds
-[instagram]: https://www.instagram.com/groverkds
-[linkedin]: https://www.linkedin.com/in/groverkds/
-[Spotify]: https://open.spotify.com/user/31q7n3uxp2rdwko74eonerqtdwbe
+[twitter]: https://twitter.com/epcm_18
+[linkedin]: https://www.linkedin.com/in/madusha-epc-840b29225/
+
