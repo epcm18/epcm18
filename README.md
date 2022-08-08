@@ -6,7 +6,7 @@
 
 - 📚 I'm currently learning concepts on DSA & OOP.
 - 💪🏼 Goals: Keep building solutions, learn more technologies and help people.
-- ⚡ Fun fact: Sportsperson, Love cricket & Football.
+- ⚡ Fun fact: Sportsperson, Love Cricket & Football.
 
 ---
 
