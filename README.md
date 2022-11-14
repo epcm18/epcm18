@@ -39,5 +39,5 @@
 ---
 
 [twitter]: https://twitter.com/epcm_18
-[linkedin]: www.linkedin.com/in/epcm18
+[linkedin]: https://www.linkedin.com/in/epcm18/
 
