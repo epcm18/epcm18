@@ -39,5 +39,5 @@
 ---
 
 [twitter]: https://twitter.com/epcm_18
-[linkedin]: https://www.linkedin.com/in/madusha-epc-840b29225/
+[linkedin]: www.linkedin.com/in/epcm18
 
