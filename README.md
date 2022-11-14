@@ -13,7 +13,7 @@
 ### Reach out to me 📝
 
 [<img align="left" alt="epcm18 | Twitter" height="30px" src="https://badges.aleen42.com/src/twitter.svg" />][twitter]
-[<img align="left" alt="epcm18 | LinkedIn" height="30px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1659885565~hmac=2e9ee22eee6b56f1ec5d8f9a2580dc68"/>][linkedin]
+[<img align="left" alt="epcm18 | LinkedIn" height="30px" src="https://commons.wikimedia.org/wiki/File:LinkedIn_Logo.svg#/media/File:LinkedIn_Logo_2013_(2).svg"/>][linkedin]
 
 
 <br />
