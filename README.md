@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science and Engineering Undergradute at [MoratuwaUni](https://uom.lk/) 
 
-- 📚 I'm currently learning concepts on DSA & OOP.
+- 📚 Learning Processing Applying.
 - 💪🏼 Goals: Keep building solutions, learn more technologies and help people.
 - ⚡ Fun fact: Sportsperson, Love Cricket & Football.
 
