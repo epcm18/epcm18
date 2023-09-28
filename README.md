@@ -29,6 +29,9 @@
 ![GitLab](https://badges.aleen42.com/src/gitlab.svg)
 ![GitHub](https://badges.aleen42.com/src/github.svg)
 ![VS Code](https://badges.aleen42.com/src/visual_studio_code.svg)
+![NodeJs](https://badges.aleen42.com/src/node.svg)
+![React](https://badges.aleen42.com/src/react.svg)
+
 
 <br/>
 
