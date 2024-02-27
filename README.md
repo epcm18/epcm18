@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science and Engineering Undergradute at [MoratuwaUni](https://uom.lk/) 
+## I'm a Computer Science and Engineering Undergraduate at [MoratuwaUni](https://uom.lk/) 
 
 - 📚 Learning Processing Applying.
-- 💪🏼 Goals: Keep building solutions, learn more technologies and help people.
+- 💪🏼 Goals: Keep building solutions, learn more technologies, and help people.
 - ⚡ Fun fact: Sportsperson, Love Cricket & Football.
 
 ---
@@ -15,8 +15,6 @@
 [<img align="left" alt="epcm18 | Twitter" height="30px" src="https://badges.aleen42.com/src/twitter.svg" />][twitter]
 [<img align="left" alt="epcm18 | LinkedIn" height="30px" src="https://www.svgrepo.com/show/81143/linkedin.svg"/>][linkedin]
 [<img align="left" alt="epcm18 | Medium" height="30px" src="https://badges.aleen42.com/src/medium.svg"/>][medium]
-
-
 
 <br />
 
@@ -34,7 +32,6 @@
 ![NodeJs](https://badges.aleen42.com/src/node.svg)
 ![React](https://badges.aleen42.com/src/react.svg)
 
-
 <br/>
 
 ---
@@ -45,5 +42,4 @@
 
 [twitter]: https://twitter.com/epcm_18
 [linkedin]: https://www.linkedin.com/in/epcm18/
-[medium] : https://medium.com/@epcm18
-
+[medium]: https://medium.com/@epcm18/
